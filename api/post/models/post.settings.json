@@ -38,6 +38,9 @@
     },
     "categories": {
       "collection": "category"
+    },
+    "IsHomepage": {
+      "type": "boolean"
     }
   }
 }

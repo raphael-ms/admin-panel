@@ -47,6 +47,12 @@
       "plugin": "upload",
       "required": false,
       "pluginOptions": {}
+    },
+    "HowManyPosts": {
+      "type": "integer",
+      "default": 3,
+      "max": 6,
+      "min": 3
     }
   }
 }
